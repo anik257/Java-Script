@@ -11,3 +11,5 @@ else if (Pam > Jim && Pam > Dwight) {
 else {
     console.log("Dwight has the highest score.");
 }
+const maxScore = Math.max(Jim, Pam, Dwight);
+console.log("The highest score is: " + maxScore);
