@@ -24,3 +24,5 @@ const max1 = getMax(100, 50);
 const max2 = getMax(5, 15);
 const ultimateMax = getMax(max1, max2);
 console.log("Ultimate Max is: " + ultimateMax);
+
+
