@@ -10,3 +10,4 @@ function getMin(numbers) {
 }
 const cheap = getMin(prices);
 console.log('The cheapest price is:', cheap);
+
