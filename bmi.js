@@ -1,4 +1,4 @@
-var weight = 75;
+var weight = 78;
 var height = 1.70;
 var bmi = weight / (height * height);
 console.log("Your BMI is: " + bmi.toFixed(2));
